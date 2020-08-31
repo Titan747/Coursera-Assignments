@@ -9,8 +9,8 @@ h1{
 div>section{
 	position: relative;
 	border:1px solid black;
-	text-align: center;
-	margin:15px;
+	text-align: left;
+	margin:20px;
 	background-color:lightgreen;
 	color:blue;
 	font-family: Courier New;
@@ -25,6 +25,7 @@ div>section{
 	font-weight:bold;
 	font-family: Georgia;
 	color:black;
+	float:right;
 }
 .alberteinstein{
 	background-color: #cc6666;
