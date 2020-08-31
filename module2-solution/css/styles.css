@@ -20,7 +20,7 @@ div>section{
 .headings{
 	border-left: solid black 1px;
 	border-bottom: solid black 1px;
-	margin: 0px 0px 0px 195px;
+	margin: 0px 0px 0px 200px;
 	text-align:center;
 	font-weight:bold;
 	font-family: Georgia;
@@ -37,6 +37,7 @@ div>section{
 	background-color: #ffd633;
 }
 .info{
+	margin:8px;
 	text-align:left;
 	padding:15px;
 }	
